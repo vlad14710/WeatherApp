@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Weather App</string>
+    <string name="No_input">Ведіть текст</string>
+</resources>
